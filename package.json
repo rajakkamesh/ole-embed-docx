@@ -1,0 +1,23 @@
+{
+  "name": "ole-embed-docx",
+  "version": "1.0.0",
+  "description": "An npm package to embed OLE objects in DOCX files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "docx": "^9.1.1",
+    "fs-extra": "^11.3.0",
+    "jszip": "^3.10.1"
+  },
+  "keywords": [
+    "docx",
+    "ole",
+    "embed",
+    "word",
+    "jszip"
+  ],
+  "author": "Kamesh Rajak",
+  "license": "MIT"
+}
